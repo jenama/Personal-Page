@@ -10,7 +10,7 @@ class Navbar extends React.Component {
     }
 
     render() {
-        const { img} = this.state
+        // const { img} = this.state
         return(
             <div className='nav-bar'>
                 <nav>

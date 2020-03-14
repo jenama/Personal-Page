@@ -1,0 +1,80 @@
+/* body {
+  height: 100vh;
+} */
+
+.App {
+  text-align: center;
+  height: 100vh;
+  /* margin: 2rem; */
+  border-spacing: 10px 1rem;
+  display: grid;
+  grid-template-rows: 10% 90%;
+}
+
+.home-page {
+  background-image: url("https://thumbs.dreamstime.com/b/hello-speech-bubbles-different-languages-vector-89703715.jpg");
+  padding: 10px;
+  /* transition: width 2s; */
+  display: grid;
+}
+
+a {
+  text-decoration: none;
+  font-size: 17px;
+  color: #29415c;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* flex-direction: ; */
+}
+
+.nav-bar {
+  background: #fcfbfa;
+}
+
+.skills img {
+  width: 100px;
+}
+
+.skills h1 {
+}
+
+.name {
+  color: #394055;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.project-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* .links {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+
+.project-name {
+  border: 3px solid black;
+  padding: 20px;
+  margin: 5px;
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* .about {
+    background-image: linear-gradient(to right, #e4afcb 0%, #b8cbb8 0%, #b8cbb8 0%, #e2c58b 30%, #c2ce9c 64%, #7edbdc 100%);
+} */
