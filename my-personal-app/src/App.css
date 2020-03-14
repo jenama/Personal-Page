@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  border: 3px solid blanchedalmond;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  background: #d6ae58
+  
+}
+
+a {
+  padding: 5px;
+  text-decoration-line: none;
+}
+
+.home-page {
+  height: 100vh;
+  /* background:#91bfa1; */
+  /* color:#8a7c88; */
+  transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.home-page:hover{
+  /* background:#bd5d5c; */
+  /* color:#f5f6f5; */
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.greetings {
+
+}
+
+/* .image:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+} */
