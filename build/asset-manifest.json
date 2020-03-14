@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jenama/Personal-Page/static/css/main.541db6a9.chunk.css",
+    "main.js": "/jenama/Personal-Page/static/js/main.c0c04510.chunk.js",
+    "main.js.map": "/jenama/Personal-Page/static/js/main.c0c04510.chunk.js.map",
+    "runtime-main.js": "/jenama/Personal-Page/static/js/runtime-main.85712ef3.js",
+    "runtime-main.js.map": "/jenama/Personal-Page/static/js/runtime-main.85712ef3.js.map",
+    "static/js/2.58f110bb.chunk.js": "/jenama/Personal-Page/static/js/2.58f110bb.chunk.js",
+    "static/js/2.58f110bb.chunk.js.map": "/jenama/Personal-Page/static/js/2.58f110bb.chunk.js.map",
+    "index.html": "/jenama/Personal-Page/index.html",
+    "precache-manifest.fa04404cdf899519cc489ad2b234967c.js": "/jenama/Personal-Page/precache-manifest.fa04404cdf899519cc489ad2b234967c.js",
+    "service-worker.js": "/jenama/Personal-Page/service-worker.js",
+    "static/css/main.541db6a9.chunk.css.map": "/jenama/Personal-Page/static/css/main.541db6a9.chunk.css.map",
+    "static/js/2.58f110bb.chunk.js.LICENSE.txt": "/jenama/Personal-Page/static/js/2.58f110bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85712ef3.js",
+    "static/js/2.58f110bb.chunk.js",
+    "static/css/main.541db6a9.chunk.css",
+    "static/js/main.c0c04510.chunk.js"
+  ]
+}
